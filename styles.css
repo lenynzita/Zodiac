@@ -1,0 +1,32 @@
+body{
+    background-image: url("blackandgold.jpg");
+}
+h1{
+    text-align: center;
+    color: gold;
+    font-size: 400%;
+    font-family: 'Lily Script One', cursive;
+}
+
+.zodiac{
+    text-align: center;
+    color: rgb(206, 179, 29);;
+}
+.zodiac input{
+    text-align: center;
+    font-size: 1.2rem;
+    border-radius: 5%;
+    padding: 0.5rem 1rem;
+}
+.zodiac button{
+    background-color: transparent;
+    color: gold;
+    font-size: large;
+    /* font-family: ; */
+}
+.zodiac h2{
+    font-family: cursive;
+    font-size: 580%;
+
+
+}
